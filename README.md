@@ -35,6 +35,9 @@ We plan to expand Telex Notifications with:
 - AI-based message prioritization  
 - Cross-device sync for mobile and web  
 - Smart scheduling to avoid overload
+  
+# image Link 
+https://github.com/GBprogress/telex-desktop-notifications-/blob/060e0d9746e80b130620c0fd7e2efa964c7003eb/Notication%20re.png
 
 # License
 MIT License © 2025 Telex Team
