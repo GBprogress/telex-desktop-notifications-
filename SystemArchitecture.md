@@ -29,6 +29,9 @@ Offline queueing handled by local storage or cache ensures reliability.
 
 The architecture scales easily with microservices and message brokers (like RabbitMQ or Kafka) if needed.
 
+# image Link 
+
+https://github.com/GBprogress/telex-desktop-notifications-/blob/fb33d54b21c04f0d2a28b3e1a96e6a2573daf58f/Notification%20tec.png
 
 ## 🧬 Data Flow Example
 ```json
