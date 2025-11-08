@@ -20,6 +20,15 @@ It connects the backend (where messages are generated) with the Electron-based d
 3. Desktop client listens for events.  
 4. When received, it triggers a desktop alert and sound.  
 5. If offline, the message is queued and delivered later.
+WebSockets ensure near-zero latency for message delivery.
+
+## Technical feasibility 
+Electron provides cross-platform support (Windows, macOS, Linux).
+
+Offline queueing handled by local storage or cache ensures reliability.
+
+The architecture scales easily with microservices and message brokers (like RabbitMQ or Kafka) if needed.
+
 
 ## 🧬 Data Flow Example
 ```json
