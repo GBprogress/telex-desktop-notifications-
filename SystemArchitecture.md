@@ -1,4 +1,4 @@
-  Telex Desktop Notifications
+Telex Desktop Notifications
 
 ## 🏗️ Overview
 The Telex Desktop Notification System delivers real-time alerts to desktop users.  
